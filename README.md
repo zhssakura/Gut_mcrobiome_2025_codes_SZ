@@ -1,5 +1,5 @@
 ```diff
- 🔴 The metagenomic dataset is somehow missing from the manuscript.
+ 🔴 The metagenomic dataset and associated MAGs were somehow missing from the manuscript.
  🔴 It is available under the NCBI BioProject Accession PRJNA1288367; 
  🔴 The script is available at: https://github.com/zhssakura/Gut_mcrobiome_2025_code_SZ.git
 ```
