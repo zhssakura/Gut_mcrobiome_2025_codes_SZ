@@ -1,6 +1,6 @@
 ```diff
  🔴 The metagenomic dataset and associated MAGs were somehow missing from the manuscript.
- 🔴 It is available under the NCBI BioProject Accession PRJNA1288367; 
+ 🔴 It is available under the NCBI BioProject Accession PRJNA1288367 and PRJEB55534; 
  🔴 The script is available at: https://github.com/zhssakura/Gut_mcrobiome_2025_code_SZ.git
 ```
 # MetaG + MetaT Analysis Workflow v1.0.0
